@@ -1,3 +1,3 @@
 # my-projects
 
-In this repository, I put some of my mini-projects and practices with different python packages.
+In this repository, I put some of my mini-projects and practices.
